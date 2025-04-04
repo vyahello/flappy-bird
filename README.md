@@ -13,9 +13,9 @@ The player's objective is to control the bird, maneuvering it through pipes and 
 ## How to Play
 
 1. Clone the project files to this repository.
-2. Ensure that you have Python 3 and the Pygame library installed on your computer.
+2. Ensure that you have Python 3 and the Pygame library installed on your computer (install dependencies via `pip install -r requirements.txt`).
 3. Navigate to the project directory in your terminal.
-4. Start the game by using the command `python3 main.py`.
+4. Start the game by using the command `python main.py`.
 5. Use the spacebar key on the keyboard to control the bird's upward movement.
 6. If the player collides, they can restart the game by pressing the ESC key.
 
